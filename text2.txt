@@ -1,1 +1,2 @@
 Hi we are in text2.txt.
+this is for checking diff command.
