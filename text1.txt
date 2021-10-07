@@ -1,1 +1,2 @@
-Hi my name is shivani singh.
+Hi my name is Shivani Singh.
+I'am learning git and github
